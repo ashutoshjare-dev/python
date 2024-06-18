@@ -1,4 +1,4 @@
-### When preparing for a Python developer position with 2 years of experience, especially for a company like Infosys, you should focus on revising a comprehensive set of topics that cover fundamental to intermediate aspects of Python. Here are the key areas you should focus on:
+### When preparing for a Python developer position with 2 years of experience, you should focus on revising a comprehensive set of topics that cover fundamental to intermediate aspects of Python. Here are the key areas you should focus on:
 
 ## Core Python Concepts
 #### Data Types and Variables: Understand different data types (int, float, string, list, tuple, dictionary, set), type conversion, and variable scope.
